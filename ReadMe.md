@@ -112,8 +112,8 @@ id: Bolivia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Bolivia//
-markerFolder: ./Bolivia/
+geojsonFolder: .//
+markerFolder: ./
 ```
 
 [name-en::Bolivia] 
