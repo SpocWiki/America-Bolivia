@@ -132,8 +132,10 @@ Capital :: [[Bolivia/Counties/Chuquisaca/City/Sucre]]
 
 [Alcohol-l::5.1] 
 [Language-Id::492] 
-[geo-lon::-66.7] 
-[geo-lat::-17.7667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-66.7] 
+[has_place_latitude::-17.7667] 
 
 
 
