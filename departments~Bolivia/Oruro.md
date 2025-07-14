@@ -40,11 +40,16 @@ markerFolder: ./Oruro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Bolivia/Counties/Oruro|Oruro]] 
-- [[../../../../../../_public/geo/Continent/America~South/Bolivia/Counties/Oruro.public|Oruro.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Bolivia/Counties/Oruro.internal|Oruro.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Bolivia/Counties/Oruro.protect|Oruro.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Bolivia/Counties/Oruro.private|Oruro.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Bolivia/Counties/Oruro.personal|Oruro.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Bolivia/Counties/Oruro.secret|Oruro.secret]] 
+
+### [Oruro.public](/_public/\Earth\Continent\America~South\Bolivia\departments~BoliviaOruro.public.md) 
+
+### [Oruro.internal](/_internal/\Earth\Continent\America~South\Bolivia\departments~BoliviaOruro.internal.md) 
+
+### [Oruro.protect](/_protect/\Earth\Continent\America~South\Bolivia\departments~BoliviaOruro.protect.md) 
+
+### [Oruro.private](/_private/\Earth\Continent\America~South\Bolivia\departments~BoliviaOruro.private.md) 
+
+### [Oruro.personal](/_personal/\Earth\Continent\America~South\Bolivia\departments~BoliviaOruro.personal.md) 
+
+### [Oruro.secret](/_secret/\Earth\Continent\America~South\Bolivia\departments~BoliviaOruro.secret.md)
 

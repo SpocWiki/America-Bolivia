@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-19.03333,-65.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Bolivia/City/Sucre|Sucre]] 
-- [[../../../../../../_public/geo/Continent/America~South/Bolivia/City/Sucre.public|Sucre.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Bolivia/City/Sucre.internal|Sucre.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Bolivia/City/Sucre.protect|Sucre.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Bolivia/City/Sucre.private|Sucre.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Bolivia/City/Sucre.personal|Sucre.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Bolivia/City/Sucre.secret|Sucre.secret]] 
+
+### [Sucre.public](/_public/\Earth\Continent\America~South\Bolivia\departments~Bolivia\Chuquisaca\CitySucre.public.md) 
+
+### [Sucre.internal](/_internal/\Earth\Continent\America~South\Bolivia\departments~Bolivia\Chuquisaca\CitySucre.internal.md) 
+
+### [Sucre.protect](/_protect/\Earth\Continent\America~South\Bolivia\departments~Bolivia\Chuquisaca\CitySucre.protect.md) 
+
+### [Sucre.private](/_private/\Earth\Continent\America~South\Bolivia\departments~Bolivia\Chuquisaca\CitySucre.private.md) 
+
+### [Sucre.personal](/_personal/\Earth\Continent\America~South\Bolivia\departments~Bolivia\Chuquisaca\CitySucre.personal.md) 
+
+### [Sucre.secret](/_secret/\Earth\Continent\America~South\Bolivia\departments~Bolivia\Chuquisaca\CitySucre.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-16.5,-68.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Bolivia/City/La_Paz|La_Paz]] 
-- [[../../../../../../_public/geo/Continent/America~South/Bolivia/City/La_Paz.public|La_Paz.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Bolivia/City/La_Paz.internal|La_Paz.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Bolivia/City/La_Paz.protect|La_Paz.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Bolivia/City/La_Paz.private|La_Paz.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Bolivia/City/La_Paz.personal|La_Paz.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Bolivia/City/La_Paz.secret|La_Paz.secret]] 
+
+### [La_Paz.public](/_public/\Earth\Continent\America~South\Bolivia\departments~Bolivia\La_Paz\CityLa_Paz.public.md) 
+
+### [La_Paz.internal](/_internal/\Earth\Continent\America~South\Bolivia\departments~Bolivia\La_Paz\CityLa_Paz.internal.md) 
+
+### [La_Paz.protect](/_protect/\Earth\Continent\America~South\Bolivia\departments~Bolivia\La_Paz\CityLa_Paz.protect.md) 
+
+### [La_Paz.private](/_private/\Earth\Continent\America~South\Bolivia\departments~Bolivia\La_Paz\CityLa_Paz.private.md) 
+
+### [La_Paz.personal](/_personal/\Earth\Continent\America~South\Bolivia\departments~Bolivia\La_Paz\CityLa_Paz.personal.md) 
+
+### [La_Paz.secret](/_secret/\Earth\Continent\America~South\Bolivia\departments~Bolivia\La_Paz\CityLa_Paz.secret.md)
+

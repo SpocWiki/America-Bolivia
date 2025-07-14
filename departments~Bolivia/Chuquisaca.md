@@ -40,11 +40,16 @@ markerFolder: ./Chuquisaca/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Bolivia/Counties/Chuquisaca|Chuquisaca]] 
-- [[../../../../../../_public/geo/Continent/America~South/Bolivia/Counties/Chuquisaca.public|Chuquisaca.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Bolivia/Counties/Chuquisaca.internal|Chuquisaca.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Bolivia/Counties/Chuquisaca.protect|Chuquisaca.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Bolivia/Counties/Chuquisaca.private|Chuquisaca.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Bolivia/Counties/Chuquisaca.personal|Chuquisaca.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Bolivia/Counties/Chuquisaca.secret|Chuquisaca.secret]] 
+
+### [Chuquisaca.public](/_public/\Earth\Continent\America~South\Bolivia\departments~BoliviaChuquisaca.public.md) 
+
+### [Chuquisaca.internal](/_internal/\Earth\Continent\America~South\Bolivia\departments~BoliviaChuquisaca.internal.md) 
+
+### [Chuquisaca.protect](/_protect/\Earth\Continent\America~South\Bolivia\departments~BoliviaChuquisaca.protect.md) 
+
+### [Chuquisaca.private](/_private/\Earth\Continent\America~South\Bolivia\departments~BoliviaChuquisaca.private.md) 
+
+### [Chuquisaca.personal](/_personal/\Earth\Continent\America~South\Bolivia\departments~BoliviaChuquisaca.personal.md) 
+
+### [Chuquisaca.secret](/_secret/\Earth\Continent\America~South\Bolivia\departments~BoliviaChuquisaca.secret.md)
 
