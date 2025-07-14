@@ -138,15 +138,17 @@ Capital :: [[Bolivia/Counties/Chuquisaca/City/Sucre]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\America~South\BoliviaReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/America~South/Bolivia/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\America~South\BoliviaReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/America~South/Bolivia/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\America~South\BoliviaReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/America~South/Bolivia/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\America~South\BoliviaReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/America~South/Bolivia/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\America~South\BoliviaReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/America~South/Bolivia/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\America~South\BoliviaReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/America~South/Bolivia/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/America~South/Bolivia/ReadMe.secret.md)
 

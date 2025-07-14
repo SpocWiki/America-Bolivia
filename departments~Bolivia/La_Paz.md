@@ -41,15 +41,17 @@ markerFolder: ./La_Paz/
 
 ## Confidential Links & Embeds: 
 
-### [La_Paz.public](/_public/\Earth\Continent\America~South\Bolivia\departments~BoliviaLa_Paz.public.md) 
+### [La_Paz](/_Standards/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz.md) 
 
-### [La_Paz.internal](/_internal/\Earth\Continent\America~South\Bolivia\departments~BoliviaLa_Paz.internal.md) 
+### [La_Paz.public](/_public/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz.public.md) 
 
-### [La_Paz.protect](/_protect/\Earth\Continent\America~South\Bolivia\departments~BoliviaLa_Paz.protect.md) 
+### [La_Paz.internal](/_internal/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz.internal.md) 
 
-### [La_Paz.private](/_private/\Earth\Continent\America~South\Bolivia\departments~BoliviaLa_Paz.private.md) 
+### [La_Paz.protect](/_protect/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz.protect.md) 
 
-### [La_Paz.personal](/_personal/\Earth\Continent\America~South\Bolivia\departments~BoliviaLa_Paz.personal.md) 
+### [La_Paz.private](/_private/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz.private.md) 
 
-### [La_Paz.secret](/_secret/\Earth\Continent\America~South\Bolivia\departments~BoliviaLa_Paz.secret.md)
+### [La_Paz.personal](/_personal/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz.personal.md) 
+
+### [La_Paz.secret](/_secret/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz.secret.md)
 

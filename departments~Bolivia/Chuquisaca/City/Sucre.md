@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sucre.public](/_public/\Earth\Continent\America~South\Bolivia\departments~Bolivia\Chuquisaca\CitySucre.public.md) 
+### [Sucre](/_Standards/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca/City/Sucre.md) 
 
-### [Sucre.internal](/_internal/\Earth\Continent\America~South\Bolivia\departments~Bolivia\Chuquisaca\CitySucre.internal.md) 
+### [Sucre.public](/_public/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca/City/Sucre.public.md) 
 
-### [Sucre.protect](/_protect/\Earth\Continent\America~South\Bolivia\departments~Bolivia\Chuquisaca\CitySucre.protect.md) 
+### [Sucre.internal](/_internal/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca/City/Sucre.internal.md) 
 
-### [Sucre.private](/_private/\Earth\Continent\America~South\Bolivia\departments~Bolivia\Chuquisaca\CitySucre.private.md) 
+### [Sucre.protect](/_protect/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca/City/Sucre.protect.md) 
 
-### [Sucre.personal](/_personal/\Earth\Continent\America~South\Bolivia\departments~Bolivia\Chuquisaca\CitySucre.personal.md) 
+### [Sucre.private](/_private/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca/City/Sucre.private.md) 
 
-### [Sucre.secret](/_secret/\Earth\Continent\America~South\Bolivia\departments~Bolivia\Chuquisaca\CitySucre.secret.md)
+### [Sucre.personal](/_personal/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca/City/Sucre.personal.md) 
+
+### [Sucre.secret](/_secret/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca/City/Sucre.secret.md)
 

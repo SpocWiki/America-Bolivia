@@ -41,15 +41,17 @@ markerFolder: ./Santa_Cruz/
 
 ## Confidential Links & Embeds: 
 
-### [Santa_Cruz.public](/_public/\Earth\Continent\America~South\Bolivia\departments~BoliviaSanta_Cruz.public.md) 
+### [Santa_Cruz](/_Standards/Earth/Continent/America~South/Bolivia/departments~Bolivia/Santa_Cruz.md) 
 
-### [Santa_Cruz.internal](/_internal/\Earth\Continent\America~South\Bolivia\departments~BoliviaSanta_Cruz.internal.md) 
+### [Santa_Cruz.public](/_public/Earth/Continent/America~South/Bolivia/departments~Bolivia/Santa_Cruz.public.md) 
 
-### [Santa_Cruz.protect](/_protect/\Earth\Continent\America~South\Bolivia\departments~BoliviaSanta_Cruz.protect.md) 
+### [Santa_Cruz.internal](/_internal/Earth/Continent/America~South/Bolivia/departments~Bolivia/Santa_Cruz.internal.md) 
 
-### [Santa_Cruz.private](/_private/\Earth\Continent\America~South\Bolivia\departments~BoliviaSanta_Cruz.private.md) 
+### [Santa_Cruz.protect](/_protect/Earth/Continent/America~South/Bolivia/departments~Bolivia/Santa_Cruz.protect.md) 
 
-### [Santa_Cruz.personal](/_personal/\Earth\Continent\America~South\Bolivia\departments~BoliviaSanta_Cruz.personal.md) 
+### [Santa_Cruz.private](/_private/Earth/Continent/America~South/Bolivia/departments~Bolivia/Santa_Cruz.private.md) 
 
-### [Santa_Cruz.secret](/_secret/\Earth\Continent\America~South\Bolivia\departments~BoliviaSanta_Cruz.secret.md)
+### [Santa_Cruz.personal](/_personal/Earth/Continent/America~South/Bolivia/departments~Bolivia/Santa_Cruz.personal.md) 
+
+### [Santa_Cruz.secret](/_secret/Earth/Continent/America~South/Bolivia/departments~Bolivia/Santa_Cruz.secret.md)
 

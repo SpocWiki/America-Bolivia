@@ -41,15 +41,17 @@ markerFolder: ./Cochabamba/
 
 ## Confidential Links & Embeds: 
 
-### [Cochabamba.public](/_public/\Earth\Continent\America~South\Bolivia\departments~BoliviaCochabamba.public.md) 
+### [Cochabamba](/_Standards/Earth/Continent/America~South/Bolivia/departments~Bolivia/Cochabamba.md) 
 
-### [Cochabamba.internal](/_internal/\Earth\Continent\America~South\Bolivia\departments~BoliviaCochabamba.internal.md) 
+### [Cochabamba.public](/_public/Earth/Continent/America~South/Bolivia/departments~Bolivia/Cochabamba.public.md) 
 
-### [Cochabamba.protect](/_protect/\Earth\Continent\America~South\Bolivia\departments~BoliviaCochabamba.protect.md) 
+### [Cochabamba.internal](/_internal/Earth/Continent/America~South/Bolivia/departments~Bolivia/Cochabamba.internal.md) 
 
-### [Cochabamba.private](/_private/\Earth\Continent\America~South\Bolivia\departments~BoliviaCochabamba.private.md) 
+### [Cochabamba.protect](/_protect/Earth/Continent/America~South/Bolivia/departments~Bolivia/Cochabamba.protect.md) 
 
-### [Cochabamba.personal](/_personal/\Earth\Continent\America~South\Bolivia\departments~BoliviaCochabamba.personal.md) 
+### [Cochabamba.private](/_private/Earth/Continent/America~South/Bolivia/departments~Bolivia/Cochabamba.private.md) 
 
-### [Cochabamba.secret](/_secret/\Earth\Continent\America~South\Bolivia\departments~BoliviaCochabamba.secret.md)
+### [Cochabamba.personal](/_personal/Earth/Continent/America~South/Bolivia/departments~Bolivia/Cochabamba.personal.md) 
+
+### [Cochabamba.secret](/_secret/Earth/Continent/America~South/Bolivia/departments~Bolivia/Cochabamba.secret.md)
 

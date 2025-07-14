@@ -41,15 +41,17 @@ markerFolder: ./Pando/
 
 ## Confidential Links & Embeds: 
 
-### [Pando.public](/_public/\Earth\Continent\America~South\Bolivia\departments~BoliviaPando.public.md) 
+### [Pando](/_Standards/Earth/Continent/America~South/Bolivia/departments~Bolivia/Pando.md) 
 
-### [Pando.internal](/_internal/\Earth\Continent\America~South\Bolivia\departments~BoliviaPando.internal.md) 
+### [Pando.public](/_public/Earth/Continent/America~South/Bolivia/departments~Bolivia/Pando.public.md) 
 
-### [Pando.protect](/_protect/\Earth\Continent\America~South\Bolivia\departments~BoliviaPando.protect.md) 
+### [Pando.internal](/_internal/Earth/Continent/America~South/Bolivia/departments~Bolivia/Pando.internal.md) 
 
-### [Pando.private](/_private/\Earth\Continent\America~South\Bolivia\departments~BoliviaPando.private.md) 
+### [Pando.protect](/_protect/Earth/Continent/America~South/Bolivia/departments~Bolivia/Pando.protect.md) 
 
-### [Pando.personal](/_personal/\Earth\Continent\America~South\Bolivia\departments~BoliviaPando.personal.md) 
+### [Pando.private](/_private/Earth/Continent/America~South/Bolivia/departments~Bolivia/Pando.private.md) 
 
-### [Pando.secret](/_secret/\Earth\Continent\America~South\Bolivia\departments~BoliviaPando.secret.md)
+### [Pando.personal](/_personal/Earth/Continent/America~South/Bolivia/departments~Bolivia/Pando.personal.md) 
+
+### [Pando.secret](/_secret/Earth/Continent/America~South/Bolivia/departments~Bolivia/Pando.secret.md)
 

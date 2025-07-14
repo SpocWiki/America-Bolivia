@@ -41,15 +41,17 @@ markerFolder: ./Potosí/
 
 ## Confidential Links & Embeds: 
 
-### [Potosí.public](/_public/\Earth\Continent\America~South\Bolivia\departments~BoliviaPotosí.public.md) 
+### [Potosí](/_Standards/Earth/Continent/America~South/Bolivia/departments~Bolivia/Potosí.md) 
 
-### [Potosí.internal](/_internal/\Earth\Continent\America~South\Bolivia\departments~BoliviaPotosí.internal.md) 
+### [Potosí.public](/_public/Earth/Continent/America~South/Bolivia/departments~Bolivia/Potosí.public.md) 
 
-### [Potosí.protect](/_protect/\Earth\Continent\America~South\Bolivia\departments~BoliviaPotosí.protect.md) 
+### [Potosí.internal](/_internal/Earth/Continent/America~South/Bolivia/departments~Bolivia/Potosí.internal.md) 
 
-### [Potosí.private](/_private/\Earth\Continent\America~South\Bolivia\departments~BoliviaPotosí.private.md) 
+### [Potosí.protect](/_protect/Earth/Continent/America~South/Bolivia/departments~Bolivia/Potosí.protect.md) 
 
-### [Potosí.personal](/_personal/\Earth\Continent\America~South\Bolivia\departments~BoliviaPotosí.personal.md) 
+### [Potosí.private](/_private/Earth/Continent/America~South/Bolivia/departments~Bolivia/Potosí.private.md) 
 
-### [Potosí.secret](/_secret/\Earth\Continent\America~South\Bolivia\departments~BoliviaPotosí.secret.md)
+### [Potosí.personal](/_personal/Earth/Continent/America~South/Bolivia/departments~Bolivia/Potosí.personal.md) 
+
+### [Potosí.secret](/_secret/Earth/Continent/America~South/Bolivia/departments~Bolivia/Potosí.secret.md)
 

@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~South\BoliviaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~South/Bolivia/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~South\BoliviaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~South/Bolivia/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~South\BoliviaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~South/Bolivia/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~South\BoliviaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~South/Bolivia/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~South\BoliviaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~South/Bolivia/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~South\BoliviaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~South/Bolivia/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~South/Bolivia/License.secret.md)
 
