@@ -1,39 +1,40 @@
 ---
 location:
-- -17.7667
-- -66.7
+  - -17.7667
+  - -66.7
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26852
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Bolivia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Bolivia
-- Bolivia (Plurinational State of)
-- Bolivia (Estado Plurinacional de)
-- Bolivie (État plurinational de)
-- بوليفيا (دولة - المتعددة القوميات)
-- 玻利维亚(多民族国)
-- Боливия (Многонациональное Государство)
-- the Plurinational State of Bolivia
-- Estado Plurinacional de Bolivia
+  - Bolivia
+  - Bolivia (Plurinational State of)
+  - Bolivia (Estado Plurinacional de)
+  - Bolivie (État plurinational de)
+  - بوليفيا (دولة - المتعددة القوميات)
+  - 玻利维亚(多民族国)
+  - Боливия (Многонациональное Государство)
+  - the Plurinational State of Bolivia
+  - Estado Plurinacional de Bolivia
 Languages:
-- es-BO
-- qu
-- ay
+  - es-BO
+  - qu
+  - ay
 ---
 
 
