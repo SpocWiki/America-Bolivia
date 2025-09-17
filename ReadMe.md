@@ -123,11 +123,11 @@ Continent :: [[South-America]]
 [VehicleCode::BOL] 
 Capital :: [[Bolivia/Counties/Chuquisaca/City/Sucre]]  
 
-![[Bolivia/Coat_of_arms_of_Bolivia.svg|550]] 
+![[Coat_of_arms_of_Bolivia.svg|550]] 
 
 ![[Anthem-Bolivia.mp3]] 
 
-![[Bolivia/Flag_of_Bolivia.svg|350]] 
+![[Flag_of_Bolivia.svg|350]] 
 
 [Alcohol-l::5.1] 
 [Language-Id::492] 
