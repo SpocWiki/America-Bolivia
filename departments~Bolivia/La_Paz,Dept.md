@@ -38,6 +38,8 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./La_Paz/
 markerFolder: ./La_Paz/
+coordinates: [[La_Paz]] 
+markerFile: [[La_Paz]] 
 ```
 
 
