@@ -134,7 +134,7 @@ State ::
 Country :: [[../../../../../../Bolivia]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~La_Paz,1491|WD~La_Paz,1491]] 
 
