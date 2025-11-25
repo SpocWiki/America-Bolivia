@@ -26,15 +26,19 @@ publishDate:
 expiryDate:
 ---
 
-# Chuquisaca
+# [[Chuquisaca]]
 
 ```leaflet
 id: Chuquisaca
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Chuquisaca/
+geojsonFolder: ./Chuquisaca//
 markerFolder: ./Chuquisaca/
+coordinates: [[Chuquisaca]] 
+markerFile: [[Chuquisaca]] 
+zoomFeatures: true
+defaultZoom: 7 
 ```
 
 
