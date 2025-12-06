@@ -28,18 +28,17 @@ expiryDate:
 
 # [[La_Paz,Dept]]
 
-
 ## #has_/map 
 
 ```leaflet
-id: La_Paz
+id: La_Paz,Dept
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./La_Paz/
-markerFolder: ./La_Paz/
-coordinates: [[La_Paz]] 
-markerFile: [[La_Paz]] 
+geojsonFolder: ./La_Paz,Dept//
+markerFolder: ./La_Paz,Dept/
+coordinates: [[La_Paz,Dept]] 
+markerFile: [[La_Paz,Dept]] 
 ```
 
 
