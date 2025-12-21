@@ -1,6 +1,8 @@
 ---
 aliases:
-  - "Nuestra Señora de La Paz (Aymara: Chuqi Yapu Aymara"
+  - 'Nuestra Señora de La Paz (Aymara: Chuqi Yapu Aymara'
+  - La_Paz
+  - La Paz
 has_id_wikidata: Q1491
 location:
   - -16.5
@@ -16,80 +18,80 @@ SpocWebEntityId: 31767
 isDeleted: false
 confidential: public
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Dalian,74881]]"
-  - "[[_Standards/WikiData/WD~Arequipa,159273]]"
-  - "[[_Standards/WikiData/WD~Puno,232842]]"
-  - "[[_Standards/WikiData/WD~Armenia,328518]]"
-  - "[[_Standards/WikiData/WD~Quetzaltenango,334577]]"
-  - "[[_Standards/WikiData/WD~Stockholm,506250]]"
-  - "[[_Standards/WikiData/WD~Ensenada,656189]]"
-  - "[[_Standards/WikiData/WD~Canelones,841342]]"
-  - "[[_Standards/WikiData/WD~Moquegua,1000346]]"
-  - "[[_Standards/WikiData/WD~Coro,1134454]]"
-  - "[[_Standards/WikiData/WD~Cusco,5582862]]"
-  - "[[_Standards/WikiData/WD~Bonn,586]]"
-  - "[[_Standards/WikiData/WD~Moscow,649]]"
-  - "[[_Standards/WikiData/WD~Montevideo,1335]]"
-  - "[[_Standards/WikiData/WD~Zagreb,1435]]"
-  - "[[_Standards/WikiData/WD~Buenos_Aires,1486]]"
-  - "[[_Standards/WikiData/WD~Mexico_City,1489]]"
-  - "[[_Standards/WikiData/WD~Caracas,1533]]"
-  - "[[_Standards/WikiData/WD~Havana,1563]]"
-  - "[[_Standards/WikiData/WD~Hanover,1715]]"
-  - "[[_Standards/WikiData/WD~Vaduz,1844]]"
-  - "[[_Standards/WikiData/WD~Taipei,1867]]"
-  - "[[_Standards/WikiData/WD~Arica,2203]]"
-  - "[[_Standards/WikiData/WD~Madrid,2807]]"
-  - "[[_Standards/WikiData/WD~Bogotá,2841]]"
-  - "[[_Standards/WikiData/WD~Santiago,2887]]"
-  - "[[_Standards/WikiData/WD~Quito,2900]]"
-  - "[[_Standards/WikiData/WD~Asunción,2933]]"
-  - "[[_Standards/WikiData/WD~Calama,3685]]"
-  - "[[_Standards/WikiData/WD~Bolzano,6526]]"
-  - "[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]"
-  - "[[_Standards/WikiData/WD~Zaragoza,10305]]"
-  - "[[_Standards/WikiData/WD~Iquique,14440]]"
-  - "[[_Standards/WikiData/WD~Denver,16554]]"
-  - "[[_Standards/WikiData/WD~Mérida,23551]]"
-  - "[[_Standards/WikiData/WD~New_York_City,60]]"
-  - "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
-  - "[[_Standards/WikiData/WD~London,84]]"
-  - "[[_Standards/WikiData/WD~São_Paulo,174]]"
-  - "[[_Standards/WikiData/WD~Santo_Domingo,34820]]"
+  - '[[_Standards/WikiData/WD~Dalian,74881]]'
+  - '[[_Standards/WikiData/WD~Arequipa,159273]]'
+  - '[[_Standards/WikiData/WD~Puno,232842]]'
+  - '[[_Standards/WikiData/WD~Armenia,328518]]'
+  - '[[_Standards/WikiData/WD~Quetzaltenango,334577]]'
+  - '[[_Standards/WikiData/WD~Stockholm,506250]]'
+  - '[[_Standards/WikiData/WD~Ensenada,656189]]'
+  - '[[_Standards/WikiData/WD~Canelones,841342]]'
+  - '[[_Standards/WikiData/WD~Moquegua,1000346]]'
+  - '[[_Standards/WikiData/WD~Coro,1134454]]'
+  - '[[_Standards/WikiData/WD~Cusco,5582862]]'
+  - '[[_Standards/WikiData/WD~Bonn,586]]'
+  - '[[_Standards/WikiData/WD~Moscow,649]]'
+  - '[[_Standards/WikiData/WD~Montevideo,1335]]'
+  - '[[_Standards/WikiData/WD~Zagreb,1435]]'
+  - '[[_Standards/WikiData/WD~Buenos_Aires,1486]]'
+  - '[[_Standards/WikiData/WD~Mexico_City,1489]]'
+  - '[[_Standards/WikiData/WD~Caracas,1533]]'
+  - '[[_Standards/WikiData/WD~Havana,1563]]'
+  - '[[_Standards/WikiData/WD~Hanover,1715]]'
+  - '[[_Standards/WikiData/WD~Vaduz,1844]]'
+  - '[[_Standards/WikiData/WD~Taipei,1867]]'
+  - '[[_Standards/WikiData/WD~Arica,2203]]'
+  - '[[_Standards/WikiData/WD~Madrid,2807]]'
+  - '[[_Standards/WikiData/WD~Bogotá,2841]]'
+  - '[[_Standards/WikiData/WD~Santiago,2887]]'
+  - '[[_Standards/WikiData/WD~Quito,2900]]'
+  - '[[_Standards/WikiData/WD~Asunción,2933]]'
+  - '[[_Standards/WikiData/WD~Calama,3685]]'
+  - '[[_Standards/WikiData/WD~Bolzano,6526]]'
+  - '[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]'
+  - '[[_Standards/WikiData/WD~Zaragoza,10305]]'
+  - '[[_Standards/WikiData/WD~Iquique,14440]]'
+  - '[[_Standards/WikiData/WD~Denver,16554]]'
+  - '[[_Standards/WikiData/WD~Mérida,23551]]'
+  - '[[_Standards/WikiData/WD~New_York_City,60]]'
+  - '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+  - '[[_Standards/WikiData/WD~London,84]]'
+  - '[[_Standards/WikiData/WD~São_Paulo,174]]'
+  - '[[_Standards/WikiData/WD~Santo_Domingo,34820]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~metropolis,200250]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~seat_of_government,1901835]]"
+  - '[[_Standards/WikiData/WD~metropolis,200250]]'
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~seat_of_government,1901835]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~La_Paz_Department,272784]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~La_Paz_Department,272784]]"
-founded_by: "[[_Standards/WikiData/WD~Alonso_de_Mendoza,387831]]"
+  - '[[_Standards/WikiData/WD~La_Paz_Department,272784]]'
+  - '[[_Standards/WikiData/WD~Bolivia,750]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~La_Paz_Department,272784]]'
+founded_by: '[[_Standards/WikiData/WD~Alonso_de_Mendoza,387831]]'
 described_by_source:
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-member_of: "[[_Standards/WikiData/WD~Merco_Cities_Network,920706]]"
-part_of: "[[_Standards/WikiData/WD~Merco_Cities_Network,920706]]"
-different_from: "[[_Standards/WikiData/WD~La_Paz,1477026]]"
-location_of_formation: "[[_Standards/WikiData/WD~Laja,1545913]]"
-named_after: "[[_Standards/WikiData/WD~Our_Lady_of_Peace,19001811]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_La_Paz,56317802]]"
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q64549376,64549376]]"
-head_of_government: "[[_Standards/WikiData/WD~Iván_Arias,113370791]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+member_of: '[[_Standards/WikiData/WD~Merco_Cities_Network,920706]]'
+part_of: '[[_Standards/WikiData/WD~Merco_Cities_Network,920706]]'
+different_from: '[[_Standards/WikiData/WD~La_Paz,1477026]]'
+location_of_formation: '[[_Standards/WikiData/WD~Laja,1545913]]'
+named_after: '[[_Standards/WikiData/WD~Our_Lady_of_Peace,19001811]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_La_Paz,56317802]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q64549376,64549376]]'
+head_of_government: '[[_Standards/WikiData/WD~Iván_Arias,113370791]]'
 coordinate_location: Point(-68.133333333 -16.495833333)
-country: "[[_Standards/WikiData/WD~Bolivia,750]]"
+country: '[[_Standards/WikiData/WD~Bolivia,750]]'
 official_language:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~Aymara,4627]]"
-  - "[[_Standards/WikiData/WD~Quechua,5218]]"
-  - "[[_Standards/WikiData/WD~Guarani,35876]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC_04_00,5762]]"
+  - '[[_Standards/WikiData/WD~Spanish,1321]]'
+  - '[[_Standards/WikiData/WD~Aymara,4627]]'
+  - '[[_Standards/WikiData/WD~Quechua,5218]]'
+  - '[[_Standards/WikiData/WD~Guarani,35876]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
 elevation_above_sea_level: 3640
 area: 472
-local_dialing_code: "2"
+local_dialing_code: 2
 population: 755732
 native_label:
   - La Paz
@@ -97,7 +99,7 @@ native_label:
 official_name:
   - La Paz
   - Chuqi Yapu
-U_S_National_Archives_Identifier: "10044782"
+U_S_National_Archives_Identifier: 10044782
 demonym:
   - paceña
   - paceño

@@ -4,6 +4,8 @@ aliases:
   - La Plata
   - Charcas
   - Chuquisaca
+  - Sucre,City
+has_id_wikidata: Q2907
 location:
   - -19.03333
   - -65.25
@@ -17,7 +19,6 @@ tags:
 SpocWebEntityId: 35912
 isDeleted: false
 confidential: public
-has_id_wikidata: Q2907
 Commons_category: Sucre, Bolivia
 native_label:
   - Sukri
@@ -31,50 +32,50 @@ demonym:
   - Capitalino
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sucre%20Square.jpg
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Mechelen,162022]]"
-  - "[[_Standards/WikiData/WD~Cartagena,657461]]"
-  - "[[_Standards/WikiData/WD~Istanbul,406]]"
-  - "[[_Standards/WikiData/WD~Concepción,1880]]"
-  - "[[_Standards/WikiData/WD~Bogotá,2841]]"
-  - "[[_Standards/WikiData/WD~Curitiba,4361]]"
-  - "[[_Standards/WikiData/WD~Iquique,14440]]"
-  - "[[_Standards/WikiData/WD~Nanjing,16666]]"
-  - "[[_Standards/WikiData/WD~City_of_Brussels,239]]"
-  - "[[_Standards/WikiData/WD~Belo_Horizonte,42800]]"
-  - "[[_Standards/WikiData/WD~La_Plata,44059]]"
-  - "[[_Standards/WikiData/WD~San_Salvador_de_Jujuy,44217]]"
-  - "[[_Standards/WikiData/WD~San_Miguel_de_Tucumán,44255]]"
-named_after: "[[_Standards/WikiData/WD~Antonio_José_de_Sucre,189779]]"
-different_from: "[[_Standards/WikiData/WD~Sucre,229270]]"
-part_of: "[[_Standards/WikiData/WD~Chuquisaca_Department,235110]]"
+  - '[[_Standards/WikiData/WD~Mechelen,162022]]'
+  - '[[_Standards/WikiData/WD~Cartagena,657461]]'
+  - '[[_Standards/WikiData/WD~Istanbul,406]]'
+  - '[[_Standards/WikiData/WD~Concepción,1880]]'
+  - '[[_Standards/WikiData/WD~Bogotá,2841]]'
+  - '[[_Standards/WikiData/WD~Curitiba,4361]]'
+  - '[[_Standards/WikiData/WD~Iquique,14440]]'
+  - '[[_Standards/WikiData/WD~Nanjing,16666]]'
+  - '[[_Standards/WikiData/WD~City_of_Brussels,239]]'
+  - '[[_Standards/WikiData/WD~Belo_Horizonte,42800]]'
+  - '[[_Standards/WikiData/WD~La_Plata,44059]]'
+  - '[[_Standards/WikiData/WD~San_Salvador_de_Jujuy,44217]]'
+  - '[[_Standards/WikiData/WD~San_Miguel_de_Tucumán,44255]]'
+named_after: '[[_Standards/WikiData/WD~Antonio_José_de_Sucre,189779]]'
+different_from: '[[_Standards/WikiData/WD~Sucre,229270]]'
+part_of: '[[_Standards/WikiData/WD~Chuquisaca_Department,235110]]'
 described_by_source:
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-member_of: "[[_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+member_of: '[[_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~municipality_of_Bolivia,1062710]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Oropeza_Province,1420303]]"
-history_of_topic: "[[_Standards/WikiData/WD~Q5899554,5899554]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Q21806944,21806944]]"
-head_of_government: "[[_Standards/WikiData/WD~Enrique_Leaño_Palenque,134178092]]"
-has_part_s_: "[[_Standards/WikiData/WD~Historic_Center_of_Sucre,135448360]]"
-country: "[[_Standards/WikiData/WD~Bolivia,750]]"
-capital_of: "[[_Standards/WikiData/WD~Bolivia,750]]"
+  - '[[_Standards/WikiData/WD~municipality_of_Bolivia,1062710]]'
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Oropeza_Province,1420303]]'
+history_of_topic: '[[_Standards/WikiData/WD~Q5899554,5899554]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Q21806944,21806944]]'
+head_of_government: '[[_Standards/WikiData/WD~Enrique_Leaño_Palenque,134178092]]'
+has_part_s_: '[[_Standards/WikiData/WD~Historic_Center_of_Sucre,135448360]]'
+country: '[[_Standards/WikiData/WD~Bolivia,750]]'
+capital_of: '[[_Standards/WikiData/WD~Bolivia,750]]'
 official_language:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~Aymara,4627]]"
-  - "[[_Standards/WikiData/WD~Quechua,5218]]"
-  - "[[_Standards/WikiData/WD~Guarani,35876]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC_04_00,5762]]"
+  - '[[_Standards/WikiData/WD~Spanish,1321]]'
+  - '[[_Standards/WikiData/WD~Aymara,4627]]'
+  - '[[_Standards/WikiData/WD~Quechua,5218]]'
+  - '[[_Standards/WikiData/WD~Guarani,35876]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
 elevation_above_sea_level: 2810
 area: 1768
-local_dialing_code: "04"
+local_dialing_code: 04
 population: 360544
-OmegaWiki_Defined_Meaning: "457726"
+OmegaWiki_Defined_Meaning: 457726
 official_name:
   - Sucre
   - La Plata

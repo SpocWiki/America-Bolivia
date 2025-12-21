@@ -1,4 +1,15 @@
 ---
+aliases:
+  - Bolivia
+  - Bolivia (Plurinational State of)
+  - Bolivia (Estado Plurinacional de)
+  - Bolivie (État plurinational de)
+  - بوليفيا (دولة - المتعددة القوميات)
+  - 玻利维亚(多民族国)
+  - Боливия (Многонациональное Государство)
+  - the Plurinational State of Bolivia
+  - Estado Plurinacional de Bolivia
+  - ReadMe
 location:
   - -17.7667
   - -66.7
@@ -15,22 +26,12 @@ cssclasses:
   - Country
 publish: true
 title: Bolivia
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Bolivia
-  - Bolivia (Plurinational State of)
-  - Bolivia (Estado Plurinacional de)
-  - Bolivie (État plurinational de)
-  - بوليفيا (دولة - المتعددة القوميات)
-  - 玻利维亚(多民族国)
-  - Боливия (Многонациональное Государство)
-  - the Plurinational State of Bolivia
-  - Estado Plurinacional de Bolivia
+publishDate: ''
+expiryDate: ''
 Languages:
   - es-BO
   - qu

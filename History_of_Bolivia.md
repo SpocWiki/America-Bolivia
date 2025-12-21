@@ -1,15 +1,17 @@
 ---
 aliases:
   - history of Bolivia
+  - History_of_Bolivia
+  - History of Bolivia
 has_id_wikidata: Q876412
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Military_dictatorship_in_Bolivia,5775348]]"
-  - "[[_Standards/WikiData/WD~history_of_Bolivia,17072749]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Bolivia,22870294]]"
-facet_of: "[[_Standards/WikiData/WD~Bolivia,750]]"
-country: "[[_Standards/WikiData/WD~Bolivia,750]]"
-Dewey_Decimal_Classification: "984"
+  - '[[_Standards/WikiData/WD~Military_dictatorship_in_Bolivia,5775348]]'
+  - '[[_Standards/WikiData/WD~history_of_Bolivia,17072749]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Bolivia,22870294]]'
+facet_of: '[[_Standards/WikiData/WD~Bolivia,750]]'
+country: '[[_Standards/WikiData/WD~Bolivia,750]]'
+Dewey_Decimal_Classification: 984
 Commons_category: History of Bolivia
 ---
 
