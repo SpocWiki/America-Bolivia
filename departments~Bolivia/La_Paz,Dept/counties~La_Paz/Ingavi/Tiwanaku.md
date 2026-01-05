@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 0400-01-01 
+has_time_stopped: 0900-01-01 
 aliases:
 has_id_wikidata: Q61750
 location: [-16.554722222, -68.673333333]
