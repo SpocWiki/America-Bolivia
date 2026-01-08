@@ -40,17 +40,17 @@ markerFolder: ./Potosí/
 
 ## Confidential Links & Embeds: 
 
-### [Potosí](/_Standards/Earth/Continent/America~South/Bolivia/departments~Bolivia/Potosí.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Potosí|Potosí]] 
 
-### [Potosí.public](/_public/Earth/Continent/America~South/Bolivia/departments~Bolivia/Potosí.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Potosí.public|Potosí.public]] 
 
-### [Potosí.internal](/_internal/Earth/Continent/America~South/Bolivia/departments~Bolivia/Potosí.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Potosí.internal|Potosí.internal]] 
 
-### [Potosí.protect](/_protect/Earth/Continent/America~South/Bolivia/departments~Bolivia/Potosí.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Potosí.protect|Potosí.protect]] 
 
-### [Potosí.private](/_private/Earth/Continent/America~South/Bolivia/departments~Bolivia/Potosí.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Potosí.private|Potosí.private]] 
 
-### [Potosí.personal](/_personal/Earth/Continent/America~South/Bolivia/departments~Bolivia/Potosí.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Potosí.personal|Potosí.personal]] 
 
-### [Potosí.secret](/_secret/Earth/Continent/America~South/Bolivia/departments~Bolivia/Potosí.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Potosí.secret|Potosí.secret]] 
 

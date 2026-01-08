@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -68.15
+dv_has_place_latitude: -16.5
+dv_name: La Paz
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~La_Paz,1491|WD~La_Paz,1491]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~La_Paz,1491|WD~La_Paz,1491]]"
+
 has_time_started: 1548-10-30 
 aliases:
   - 'Nuestra Señora de La Paz (Aymara: Chuqi Yapu Aymara'
@@ -129,17 +137,17 @@ GitHub_topic: la-paz
 # [[La_Paz]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-68.15] 
-[has_place_latitude::-16.5] 
-[name::La Paz] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../../../../../Bolivia]]  
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~La_Paz,1491|WD~La_Paz,1491]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map  
 
@@ -178,17 +186,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [La_Paz](/_Standards/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz/City/La_Paz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept/counties~La_Paz/Murillo/cities~Murillo/La_Paz|La_Paz]] 
 
-### [La_Paz.public](/_public/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz/City/La_Paz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept/counties~La_Paz/Murillo/cities~Murillo/La_Paz.public|La_Paz.public]] 
 
-### [La_Paz.internal](/_internal/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz/City/La_Paz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept/counties~La_Paz/Murillo/cities~Murillo/La_Paz.internal|La_Paz.internal]] 
 
-### [La_Paz.protect](/_protect/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz/City/La_Paz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept/counties~La_Paz/Murillo/cities~Murillo/La_Paz.protect|La_Paz.protect]] 
 
-### [La_Paz.private](/_private/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz/City/La_Paz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept/counties~La_Paz/Murillo/cities~Murillo/La_Paz.private|La_Paz.private]] 
 
-### [La_Paz.personal](/_personal/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz/City/La_Paz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept/counties~La_Paz/Murillo/cities~Murillo/La_Paz.personal|La_Paz.personal]] 
 
-### [La_Paz.secret](/_secret/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz/City/La_Paz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept/counties~La_Paz/Murillo/cities~Murillo/La_Paz.secret|La_Paz.secret]] 
 

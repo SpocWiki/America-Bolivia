@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Tiwanaku,61750|WD~Tiwanaku,61750]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Tiwanaku,61750|WD~Tiwanaku,61750]]"
+
 has_time_started: 0400-01-01 
 has_time_stopped: 0900-01-01 
 aliases:
@@ -35,7 +39,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Zonnepoort%20tiwanaku.
 
 # [[Tiwanaku]] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Tiwanaku,61750|WD~Tiwanaku,61750]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -55,4 +59,21 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Zonnepoort%20tiwanaku.
 > Bernabé Cobo, a Jesuit chronicler of Peru, reported that Tiwanaku's name once was taypiqala, which is Aymara meaning "stone in the center", alluding to the belief that it lay at the center of the world. The name by which Tiwanaku was known to its inhabitants may have been lost, as they had no written language. Heggarty and Beresford-Jones suggest that the Puquina language is most likely to have been the language of Tiwanaku.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tiwanaku) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept/counties~La_Paz/Ingavi/Tiwanaku|Tiwanaku]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept/counties~La_Paz/Ingavi/Tiwanaku.public|Tiwanaku.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept/counties~La_Paz/Ingavi/Tiwanaku.internal|Tiwanaku.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept/counties~La_Paz/Ingavi/Tiwanaku.protect|Tiwanaku.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept/counties~La_Paz/Ingavi/Tiwanaku.private|Tiwanaku.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept/counties~La_Paz/Ingavi/Tiwanaku.personal|Tiwanaku.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept/counties~La_Paz/Ingavi/Tiwanaku.secret|Tiwanaku.secret]] 
 

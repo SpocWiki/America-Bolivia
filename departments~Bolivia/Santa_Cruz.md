@@ -41,17 +41,17 @@ markerFolder: ./Santa_Cruz/
 
 ## Confidential Links & Embeds: 
 
-### [Santa_Cruz](/_Standards/Earth/Continent/America~South/Bolivia/departments~Bolivia/Santa_Cruz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Santa_Cruz|Santa_Cruz]] 
 
-### [Santa_Cruz.public](/_public/Earth/Continent/America~South/Bolivia/departments~Bolivia/Santa_Cruz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Santa_Cruz.public|Santa_Cruz.public]] 
 
-### [Santa_Cruz.internal](/_internal/Earth/Continent/America~South/Bolivia/departments~Bolivia/Santa_Cruz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Santa_Cruz.internal|Santa_Cruz.internal]] 
 
-### [Santa_Cruz.protect](/_protect/Earth/Continent/America~South/Bolivia/departments~Bolivia/Santa_Cruz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Santa_Cruz.protect|Santa_Cruz.protect]] 
 
-### [Santa_Cruz.private](/_private/Earth/Continent/America~South/Bolivia/departments~Bolivia/Santa_Cruz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Santa_Cruz.private|Santa_Cruz.private]] 
 
-### [Santa_Cruz.personal](/_personal/Earth/Continent/America~South/Bolivia/departments~Bolivia/Santa_Cruz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Santa_Cruz.personal|Santa_Cruz.personal]] 
 
-### [Santa_Cruz.secret](/_secret/Earth/Continent/America~South/Bolivia/departments~Bolivia/Santa_Cruz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Santa_Cruz.secret|Santa_Cruz.secret]] 
 

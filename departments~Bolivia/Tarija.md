@@ -40,17 +40,17 @@ markerFolder: ./Tarija/
 
 ## Confidential Links & Embeds: 
 
-### [Tarija](/_Standards/Earth/Continent/America~South/Bolivia/departments~Bolivia/Tarija.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Tarija|Tarija]] 
 
-### [Tarija.public](/_public/Earth/Continent/America~South/Bolivia/departments~Bolivia/Tarija.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Tarija.public|Tarija.public]] 
 
-### [Tarija.internal](/_internal/Earth/Continent/America~South/Bolivia/departments~Bolivia/Tarija.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Tarija.internal|Tarija.internal]] 
 
-### [Tarija.protect](/_protect/Earth/Continent/America~South/Bolivia/departments~Bolivia/Tarija.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Tarija.protect|Tarija.protect]] 
 
-### [Tarija.private](/_private/Earth/Continent/America~South/Bolivia/departments~Bolivia/Tarija.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Tarija.private|Tarija.private]] 
 
-### [Tarija.personal](/_personal/Earth/Continent/America~South/Bolivia/departments~Bolivia/Tarija.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Tarija.personal|Tarija.personal]] 
 
-### [Tarija.secret](/_secret/Earth/Continent/America~South/Bolivia/departments~Bolivia/Tarija.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Tarija.secret|Tarija.secret]] 
 

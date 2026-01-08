@@ -46,17 +46,17 @@ markerFile: [[La_Paz,Dept]]
 
 ## Confidential Links & Embeds: 
 
-### [La_Paz](/_Standards/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept|La_Paz,Dept]] 
 
-### [La_Paz.public](/_public/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept.public|La_Paz,Dept.public]] 
 
-### [La_Paz.internal](/_internal/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept.internal|La_Paz,Dept.internal]] 
 
-### [La_Paz.protect](/_protect/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept.protect|La_Paz,Dept.protect]] 
 
-### [La_Paz.private](/_private/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept.private|La_Paz,Dept.private]] 
 
-### [La_Paz.personal](/_personal/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept.personal|La_Paz,Dept.personal]] 
 
-### [La_Paz.secret](/_secret/Earth/Continent/America~South/Bolivia/departments~Bolivia/La_Paz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/La_Paz,Dept.secret|La_Paz,Dept.secret]] 
 

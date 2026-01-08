@@ -41,17 +41,17 @@ markerFolder: ./El_Beni/
 
 ## Confidential Links & Embeds: 
 
-### [El_Beni](/_Standards/Earth/Continent/America~South/Bolivia/departments~Bolivia/El_Beni.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/El_Beni|El_Beni]] 
 
-### [El_Beni.public](/_public/Earth/Continent/America~South/Bolivia/departments~Bolivia/El_Beni.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/El_Beni.public|El_Beni.public]] 
 
-### [El_Beni.internal](/_internal/Earth/Continent/America~South/Bolivia/departments~Bolivia/El_Beni.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/El_Beni.internal|El_Beni.internal]] 
 
-### [El_Beni.protect](/_protect/Earth/Continent/America~South/Bolivia/departments~Bolivia/El_Beni.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/El_Beni.protect|El_Beni.protect]] 
 
-### [El_Beni.private](/_private/Earth/Continent/America~South/Bolivia/departments~Bolivia/El_Beni.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/El_Beni.private|El_Beni.private]] 
 
-### [El_Beni.personal](/_personal/Earth/Continent/America~South/Bolivia/departments~Bolivia/El_Beni.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/El_Beni.personal|El_Beni.personal]] 
 
-### [El_Beni.secret](/_secret/Earth/Continent/America~South/Bolivia/departments~Bolivia/El_Beni.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/El_Beni.secret|El_Beni.secret]] 
 

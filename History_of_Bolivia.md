@@ -5,19 +5,22 @@ aliases:
   - History of Bolivia
 has_id_wikidata: Q876412
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Military_dictatorship_in_Bolivia,5775348]]'
-  - '[[_Standards/WikiData/WD~history_of_Bolivia,17072749]]'
-instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Bolivia,22870294]]'
-facet_of: '[[_Standards/WikiData/WD~Bolivia,750]]'
-country: '[[_Standards/WikiData/WD~Bolivia,750]]'
+  - "[[_Standards/WikiData/WD~Military_dictatorship_in_Bolivia,5775348]]"
+  - "[[_Standards/WikiData/WD~history_of_Bolivia,17072749]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Bolivia,22870294]]"
+facet_of: "[[_Standards/WikiData/WD~Bolivia,750]]"
+country: "[[_Standards/WikiData/WD~Bolivia,750]]"
 Dewey_Decimal_Classification: 984
 Commons_category: History of Bolivia
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Bolivia,876412]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Bolivia,876412]]"
 ---
 
 # [[History_of_Bolivia]] 
 
-#is_/same_as :: [[WD~History_of_Bolivia,876412]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -32,4 +35,21 @@ Commons_category: History of Bolivia
 > Bolivia faced a further losses in the Chaco War against Paraguay of the 1930s. The Bolivian National Revolution broke out in the 1950s and attempted a program of nationalization of resources and expansion of suffrage. The country fell into military rule and experienced a series of coups until a transition to democratic government in the 1980s which still struggled with a rapidly deteriorating economy. 21st century Bolivian politics would be dominated by Evo Morales until he resigned in the wake of the 2019 Bolivian political crisis.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Bolivia) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Bolivia/History_of_Bolivia|History_of_Bolivia]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Bolivia/History_of_Bolivia.public|History_of_Bolivia.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Bolivia/History_of_Bolivia.internal|History_of_Bolivia.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Bolivia/History_of_Bolivia.protect|History_of_Bolivia.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Bolivia/History_of_Bolivia.private|History_of_Bolivia.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Bolivia/History_of_Bolivia.personal|History_of_Bolivia.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Bolivia/History_of_Bolivia.secret|History_of_Bolivia.secret]] 
 

@@ -44,17 +44,17 @@ defaultZoom: 7
 
 ## Confidential Links & Embeds: 
 
-### [Chuquisaca](/_Standards/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Chuquisaca|Chuquisaca]] 
 
-### [Chuquisaca.public](/_public/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Chuquisaca.public|Chuquisaca.public]] 
 
-### [Chuquisaca.internal](/_internal/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Chuquisaca.internal|Chuquisaca.internal]] 
 
-### [Chuquisaca.protect](/_protect/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Chuquisaca.protect|Chuquisaca.protect]] 
 
-### [Chuquisaca.private](/_private/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Chuquisaca.private|Chuquisaca.private]] 
 
-### [Chuquisaca.personal](/_personal/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Chuquisaca.personal|Chuquisaca.personal]] 
 
-### [Chuquisaca.secret](/_secret/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Chuquisaca.secret|Chuquisaca.secret]] 
 

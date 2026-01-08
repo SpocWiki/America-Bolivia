@@ -1,4 +1,13 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -65.25
+dv_has_place_latitude: -19.03333
+dv_name: Sucre
+dv_Unknown: 32
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Sucre,2907|WD~Sucre,2907]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Sucre,2907|WD~Sucre,2907]]"
+
 has_time_started: 1538-01-01 
 aliases:
   - Chuqichaka
@@ -99,17 +108,17 @@ Commons_gallery: Sucre, Bolivia
 # [[Sucre,City]]
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-65.25] 
-[has_place_latitude::-19.03333] 
-[name::Sucre] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../../../../../Bolivia]]  
 [StateId::] 
 [Population::] 
-[Unknown::32] 
+Unknown = `=this.dv_Unknown` 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Sucre,2907|WD~Sucre,2907]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map  
 
@@ -142,21 +151,19 @@ minZoom: 4
 > [Wikipedia](https://en.wikipedia.org/wiki/Sucre) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Sucre](/_Standards/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca/City/Sucre.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Chuquisaca/counties~Chuquisaca/Oropeza/cities~Oropeza/Sucre,City|Sucre,City]] 
 
-### [Sucre.public](/_public/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca/City/Sucre.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Chuquisaca/counties~Chuquisaca/Oropeza/cities~Oropeza/Sucre,City.public|Sucre,City.public]] 
 
-### [Sucre.internal](/_internal/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca/City/Sucre.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Chuquisaca/counties~Chuquisaca/Oropeza/cities~Oropeza/Sucre,City.internal|Sucre,City.internal]] 
 
-### [Sucre.protect](/_protect/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca/City/Sucre.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Chuquisaca/counties~Chuquisaca/Oropeza/cities~Oropeza/Sucre,City.protect|Sucre,City.protect]] 
 
-### [Sucre.private](/_private/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca/City/Sucre.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Chuquisaca/counties~Chuquisaca/Oropeza/cities~Oropeza/Sucre,City.private|Sucre,City.private]] 
 
-### [Sucre.personal](/_personal/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca/City/Sucre.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Chuquisaca/counties~Chuquisaca/Oropeza/cities~Oropeza/Sucre,City.personal|Sucre,City.personal]] 
 
-### [Sucre.secret](/_secret/Earth/Continent/America~South/Bolivia/departments~Bolivia/Chuquisaca/City/Sucre.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Bolivia/departments~Bolivia/Chuquisaca/counties~Chuquisaca/Oropeza/cities~Oropeza/Sucre,City.secret|Sucre,City.secret]] 
 
