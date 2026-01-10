@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -68.15
 dv_has_place_latitude: -16.5
-dv_has_name_: La Paz
+dv_has_name: La Paz
 dv_is_:
   same_as: "[[../../../../../../../../../../WikiData/WD~La_Paz,1491|WD~La_Paz,1491]]"
 dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~La_Paz,1491|WD~La_Paz,1491]]"
@@ -140,7 +140,7 @@ GitHub_topic: la-paz
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../../../../../Bolivia]]  
 [StateId::] 

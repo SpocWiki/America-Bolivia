@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -65.25
 dv_has_place_latitude: -19.03333
-dv_has_name_: Sucre
+dv_has_name: Sucre
 dv_Unknown: 32
 dv_is_:
   same_as: "[[../../../../../../../../../../WikiData/WD~Sucre,2907|WD~Sucre,2907]]"
@@ -111,7 +111,7 @@ Commons_gallery: Sucre, Bolivia
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../../../../../Bolivia]]  
 [StateId::] 
