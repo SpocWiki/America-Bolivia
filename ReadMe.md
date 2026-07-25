@@ -241,7 +241,7 @@ language_used:
 highest_point: "[[/_Standards/WikiData/WD~Nevado_Sajama,272593|WD~Nevado_Sajama,272593]]"
 described_by_source:
   - "[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[/_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]"
@@ -568,7 +568,7 @@ dv_ISO2: BO
 dv_ISO3: BOL
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Bolivia,750|WD~Bolivia,750]]"
+    - "[[../../../../../WikiData/WD~Bolivia,750|WD~Bolivia,750]]"
     - "[[/_Standards/Earth/Continent/America~South/Andes/Bolivia|Bolivia]]"
     - "[[/_public/Earth/Continent/America~South/Andes/Bolivia.public|Bolivia.public]]"
     - "[[/_internal/Earth/Continent/America~South/Andes/Bolivia.internal|Bolivia.internal]]"
@@ -892,7 +892,7 @@ dv_has_place_longitude: -66.7
 dv_has_place_latitude: -17.7667
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Bolivia,750|WD~Bolivia,750]]"
+  - "[[../../../../../WikiData/WD~Bolivia,750|WD~Bolivia,750]]"
   - "[[/_Standards/Earth/Continent/America~South/Andes/Bolivia|Bolivia]]"
   - "[[/_public/Earth/Continent/America~South/Andes/Bolivia.public|Bolivia.public]]"
   - "[[/_internal/Earth/Continent/America~South/Andes/Bolivia.internal|Bolivia.internal]]"
@@ -973,12 +973,12 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Bolivia,750|WD~Bolivia,750]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Bolivia,750|WD~Bolivia,750]] 
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Bolivia/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -999,7 +999,7 @@ defaultZoom: 6
 
 ```leaflet
 id: Bolivia_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1023,13 +1023,13 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Bolivia/Counties/Chuquisaca/City/Sucre|Sucre]]  
+Capital :: [[Counties/Chuquisaca/City/Sucre|Sucre]]  
 
-![[Bolivia/Coat_of_arms_of_Bolivia.svg|550]]
+![[Coat_of_arms_of_Bolivia.svg|550]]
 
-![[../../../../_public/xLarge.public/National-Anthem/Anthem-Bolivia.mp3|Anthem-Bolivia.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Bolivia.mp3|Anthem-Bolivia.mp3]]
 
-![[Bolivia/Flag_of_Bolivia.svg|350]]
+![[Flag_of_Bolivia.svg|350]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
